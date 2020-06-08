@@ -7,8 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B930520248ED87400AA5DBE /* Longest Increasing Subsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B93051F248ED87400AA5DBE /* Longest Increasing Subsequence.swift */; };
+		7B930522248ED8DB00AA5DBE /* Task Scheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B930521248ED8DB00AA5DBE /* Task Scheduler.swift */; };
+		7B930524248ED92700AA5DBE /* Sum of Square Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B930523248ED92700AA5DBE /* Sum of Square Numbers.swift */; };
+		7B930526248ED96000AA5DBE /* Network Delay Time.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B930525248ED96000AA5DBE /* Network Delay Time.swift */; };
+		7B930528248ED9A500AA5DBE /* Partition Labels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B930527248ED9A500AA5DBE /* Partition Labels.swift */; };
+		7B93052A248ED9EA00AA5DBE /* Cheapest Flights Within K Stops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B930529248ED9EA00AA5DBE /* Cheapest Flights Within K Stops.swift */; };
 		7BB16F64248D6549009C9611 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F63248D6549009C9611 /* main.swift */; };
 		7BB16F6B248D659E009C9611 /* Maximum Subarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F6A248D659E009C9611 /* Maximum Subarray.swift */; };
+		7BB16F6D248D6E69009C9611 /* Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F6C248D6E69009C9611 /* Climbing Stairs.swift */; };
+		7BB16F6F248D6FB3009C9611 /* Gas Station.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F6E248D6FB3009C9611 /* Gas Station.swift */; };
+		7BB16F71248D6FFC009C9611 /* Course Schedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F70248D6FFC009C9611 /* Course Schedule.swift */; };
+		7BB16F73248D7048009C9611 /* Course Schedule II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F72248D7048009C9611 /* Course Schedule II.swift */; };
+		7BB16F75248D707E009C9611 /* Friend Circles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F74248D707E009C9611 /* Friend Circles.swift */; };
+		7BB16F77248D70B5009C9611 /* Two City Scheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F76248D70B5009C9611 /* Two City Scheduling.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,9 +36,21 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		7B93051F248ED87400AA5DBE /* Longest Increasing Subsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Longest Increasing Subsequence.swift"; sourceTree = "<group>"; };
+		7B930521248ED8DB00AA5DBE /* Task Scheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Task Scheduler.swift"; sourceTree = "<group>"; };
+		7B930523248ED92700AA5DBE /* Sum of Square Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of Square Numbers.swift"; sourceTree = "<group>"; };
+		7B930525248ED96000AA5DBE /* Network Delay Time.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Network Delay Time.swift"; sourceTree = "<group>"; };
+		7B930527248ED9A500AA5DBE /* Partition Labels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Partition Labels.swift"; sourceTree = "<group>"; };
+		7B930529248ED9EA00AA5DBE /* Cheapest Flights Within K Stops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Cheapest Flights Within K Stops.swift"; sourceTree = "<group>"; };
 		7BB16F60248D6549009C9611 /* Algorithms_And_LeetCode_Answer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithms_And_LeetCode_Answer; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BB16F63248D6549009C9611 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		7BB16F6A248D659E009C9611 /* Maximum Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Subarray.swift"; sourceTree = "<group>"; };
+		7BB16F6C248D6E69009C9611 /* Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Climbing Stairs.swift"; sourceTree = "<group>"; };
+		7BB16F6E248D6FB3009C9611 /* Gas Station.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Gas Station.swift"; sourceTree = "<group>"; };
+		7BB16F70248D6FFC009C9611 /* Course Schedule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Course Schedule.swift"; sourceTree = "<group>"; };
+		7BB16F72248D7048009C9611 /* Course Schedule II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Course Schedule II.swift"; sourceTree = "<group>"; };
+		7BB16F74248D707E009C9611 /* Friend Circles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Friend Circles.swift"; sourceTree = "<group>"; };
+		7BB16F76248D70B5009C9611 /* Two City Scheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Two City Scheduling.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +85,18 @@
 			children = (
 				7BB16F63248D6549009C9611 /* main.swift */,
 				7BB16F6A248D659E009C9611 /* Maximum Subarray.swift */,
+				7BB16F6C248D6E69009C9611 /* Climbing Stairs.swift */,
+				7BB16F6E248D6FB3009C9611 /* Gas Station.swift */,
+				7BB16F70248D6FFC009C9611 /* Course Schedule.swift */,
+				7BB16F72248D7048009C9611 /* Course Schedule II.swift */,
+				7BB16F74248D707E009C9611 /* Friend Circles.swift */,
+				7BB16F76248D70B5009C9611 /* Two City Scheduling.swift */,
+				7B93051F248ED87400AA5DBE /* Longest Increasing Subsequence.swift */,
+				7B930521248ED8DB00AA5DBE /* Task Scheduler.swift */,
+				7B930523248ED92700AA5DBE /* Sum of Square Numbers.swift */,
+				7B930525248ED96000AA5DBE /* Network Delay Time.swift */,
+				7B930527248ED9A500AA5DBE /* Partition Labels.swift */,
+				7B930529248ED9EA00AA5DBE /* Cheapest Flights Within K Stops.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -123,8 +159,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BB16F6D248D6E69009C9611 /* Climbing Stairs.swift in Sources */,
+				7BB16F6F248D6FB3009C9611 /* Gas Station.swift in Sources */,
+				7B930528248ED9A500AA5DBE /* Partition Labels.swift in Sources */,
+				7B930520248ED87400AA5DBE /* Longest Increasing Subsequence.swift in Sources */,
+				7B930526248ED96000AA5DBE /* Network Delay Time.swift in Sources */,
 				7BB16F6B248D659E009C9611 /* Maximum Subarray.swift in Sources */,
+				7BB16F73248D7048009C9611 /* Course Schedule II.swift in Sources */,
 				7BB16F64248D6549009C9611 /* main.swift in Sources */,
+				7BB16F77248D70B5009C9611 /* Two City Scheduling.swift in Sources */,
+				7BB16F71248D6FFC009C9611 /* Course Schedule.swift in Sources */,
+				7B930524248ED92700AA5DBE /* Sum of Square Numbers.swift in Sources */,
+				7B93052A248ED9EA00AA5DBE /* Cheapest Flights Within K Stops.swift in Sources */,
+				7BB16F75248D707E009C9611 /* Friend Circles.swift in Sources */,
+				7B930522248ED8DB00AA5DBE /* Task Scheduler.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
