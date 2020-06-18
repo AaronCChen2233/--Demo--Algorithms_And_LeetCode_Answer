@@ -21,6 +21,7 @@
 		7BB16F73248D7048009C9611 /* Course Schedule II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F72248D7048009C9611 /* Course Schedule II.swift */; };
 		7BB16F75248D707E009C9611 /* Friend Circles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F74248D707E009C9611 /* Friend Circles.swift */; };
 		7BB16F77248D70B5009C9611 /* Two City Scheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F76248D70B5009C9611 /* Two City Scheduling.swift */; };
+		7BB222FE249C1D76008BE0C8 /* Number Complement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB222FD249C1D76008BE0C8 /* Number Complement.swift */; };
 		7BCE00CF249A70DF00A8666C /* Set Matrix Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCE00CE249A70DF00A8666C /* Set Matrix Zeroes.swift */; };
 		7BCE00D2249A757F00A8666C /* Array+ArrayTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCE00D1249A757F00A8666C /* Array+ArrayTool.swift */; };
 		7BCE00D4249A758800A8666C /* String+DPStringTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCE00D3249A758800A8666C /* String+DPStringTool.swift */; };
@@ -56,6 +57,7 @@
 		7BB16F72248D7048009C9611 /* Course Schedule II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Course Schedule II.swift"; sourceTree = "<group>"; };
 		7BB16F74248D707E009C9611 /* Friend Circles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Friend Circles.swift"; sourceTree = "<group>"; };
 		7BB16F76248D70B5009C9611 /* Two City Scheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Two City Scheduling.swift"; sourceTree = "<group>"; };
+		7BB222FD249C1D76008BE0C8 /* Number Complement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number Complement.swift"; sourceTree = "<group>"; };
 		7BCE00CE249A70DF00A8666C /* Set Matrix Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Set Matrix Zeroes.swift"; sourceTree = "<group>"; };
 		7BCE00D1249A757F00A8666C /* Array+ArrayTool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Array+ArrayTool.swift"; sourceTree = "<group>"; };
 		7BCE00D3249A758800A8666C /* String+DPStringTool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+DPStringTool.swift"; sourceTree = "<group>"; };
@@ -111,6 +113,7 @@
 				7BCE00CE249A70DF00A8666C /* Set Matrix Zeroes.swift */,
 				7BCE00D5249A953000A8666C /* Group Anagrams.swift */,
 				7BCE00D7249AA1B100A8666C /* Basic Calculator.swift */,
+				7BB222FD249C1D76008BE0C8 /* Number Complement.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 				7B93052A248ED9EA00AA5DBE /* Cheapest Flights Within K Stops.swift in Sources */,
 				7BB16F75248D707E009C9611 /* Friend Circles.swift in Sources */,
 				7B930522248ED8DB00AA5DBE /* Task Scheduler.swift in Sources */,
+				7BB222FE249C1D76008BE0C8 /* Number Complement.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
