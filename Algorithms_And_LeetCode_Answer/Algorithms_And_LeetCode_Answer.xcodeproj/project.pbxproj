@@ -13,6 +13,7 @@
 		7B930526248ED96000AA5DBE /* Network Delay Time.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B930525248ED96000AA5DBE /* Network Delay Time.swift */; };
 		7B930528248ED9A500AA5DBE /* Partition Labels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B930527248ED9A500AA5DBE /* Partition Labels.swift */; };
 		7B93052A248ED9EA00AA5DBE /* Cheapest Flights Within K Stops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B930529248ED9EA00AA5DBE /* Cheapest Flights Within K Stops.swift */; };
+		7BA3C66C249D6C5F00AAC951 /* Permutations II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA3C66B249D6C5F00AAC951 /* Permutations II.swift */; };
 		7BB16F64248D6549009C9611 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F63248D6549009C9611 /* main.swift */; };
 		7BB16F6B248D659E009C9611 /* Maximum Subarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F6A248D659E009C9611 /* Maximum Subarray.swift */; };
 		7BB16F6D248D6E69009C9611 /* Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F6C248D6E69009C9611 /* Climbing Stairs.swift */; };
@@ -48,6 +49,7 @@
 		7B930525248ED96000AA5DBE /* Network Delay Time.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Network Delay Time.swift"; sourceTree = "<group>"; };
 		7B930527248ED9A500AA5DBE /* Partition Labels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Partition Labels.swift"; sourceTree = "<group>"; };
 		7B930529248ED9EA00AA5DBE /* Cheapest Flights Within K Stops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Cheapest Flights Within K Stops.swift"; sourceTree = "<group>"; };
+		7BA3C66B249D6C5F00AAC951 /* Permutations II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Permutations II.swift"; sourceTree = "<group>"; };
 		7BB16F60248D6549009C9611 /* Algorithms_And_LeetCode_Answer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithms_And_LeetCode_Answer; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BB16F63248D6549009C9611 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		7BB16F6A248D659E009C9611 /* Maximum Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Subarray.swift"; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 				7BCE00D5249A953000A8666C /* Group Anagrams.swift */,
 				7BCE00D7249AA1B100A8666C /* Basic Calculator.swift */,
 				7BB222FD249C1D76008BE0C8 /* Number Complement.swift */,
+				7BA3C66B249D6C5F00AAC951 /* Permutations II.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 				7BCE00D2249A757F00A8666C /* Array+ArrayTool.swift in Sources */,
 				7BB16F73248D7048009C9611 /* Course Schedule II.swift in Sources */,
 				7BCE00D4249A758800A8666C /* String+DPStringTool.swift in Sources */,
+				7BA3C66C249D6C5F00AAC951 /* Permutations II.swift in Sources */,
 				7BB16F64248D6549009C9611 /* main.swift in Sources */,
 				7BB16F77248D70B5009C9611 /* Two City Scheduling.swift in Sources */,
 				7BB16F71248D6FFC009C9611 /* Course Schedule.swift in Sources */,
