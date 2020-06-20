@@ -14,6 +14,7 @@
 		7B930528248ED9A500AA5DBE /* Partition Labels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B930527248ED9A500AA5DBE /* Partition Labels.swift */; };
 		7B93052A248ED9EA00AA5DBE /* Cheapest Flights Within K Stops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B930529248ED9EA00AA5DBE /* Cheapest Flights Within K Stops.swift */; };
 		7BA3C66C249D6C5F00AAC951 /* Permutations II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA3C66B249D6C5F00AAC951 /* Permutations II.swift */; };
+		7BA3C66E249D7ABA00AAC951 /* Backspace String Compare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA3C66D249D7ABA00AAC951 /* Backspace String Compare.swift */; };
 		7BB16F64248D6549009C9611 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F63248D6549009C9611 /* main.swift */; };
 		7BB16F6B248D659E009C9611 /* Maximum Subarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F6A248D659E009C9611 /* Maximum Subarray.swift */; };
 		7BB16F6D248D6E69009C9611 /* Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F6C248D6E69009C9611 /* Climbing Stairs.swift */; };
@@ -50,6 +51,7 @@
 		7B930527248ED9A500AA5DBE /* Partition Labels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Partition Labels.swift"; sourceTree = "<group>"; };
 		7B930529248ED9EA00AA5DBE /* Cheapest Flights Within K Stops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Cheapest Flights Within K Stops.swift"; sourceTree = "<group>"; };
 		7BA3C66B249D6C5F00AAC951 /* Permutations II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Permutations II.swift"; sourceTree = "<group>"; };
+		7BA3C66D249D7ABA00AAC951 /* Backspace String Compare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Backspace String Compare.swift"; sourceTree = "<group>"; };
 		7BB16F60248D6549009C9611 /* Algorithms_And_LeetCode_Answer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithms_And_LeetCode_Answer; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BB16F63248D6549009C9611 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		7BB16F6A248D659E009C9611 /* Maximum Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Subarray.swift"; sourceTree = "<group>"; };
@@ -117,6 +119,7 @@
 				7BCE00D7249AA1B100A8666C /* Basic Calculator.swift */,
 				7BB222FD249C1D76008BE0C8 /* Number Complement.swift */,
 				7BA3C66B249D6C5F00AAC951 /* Permutations II.swift */,
+				7BA3C66D249D7ABA00AAC951 /* Backspace String Compare.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -206,6 +209,7 @@
 				7BB16F71248D6FFC009C9611 /* Course Schedule.swift in Sources */,
 				7B930524248ED92700AA5DBE /* Sum of Square Numbers.swift in Sources */,
 				7B93052A248ED9EA00AA5DBE /* Cheapest Flights Within K Stops.swift in Sources */,
+				7BA3C66E249D7ABA00AAC951 /* Backspace String Compare.swift in Sources */,
 				7BB16F75248D707E009C9611 /* Friend Circles.swift in Sources */,
 				7B930522248ED8DB00AA5DBE /* Task Scheduler.swift in Sources */,
 				7BB222FE249C1D76008BE0C8 /* Number Complement.swift in Sources */,
