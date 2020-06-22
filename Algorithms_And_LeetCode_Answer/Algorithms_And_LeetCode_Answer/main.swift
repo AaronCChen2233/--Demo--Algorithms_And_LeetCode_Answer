@@ -15,7 +15,9 @@ import Foundation
 //print(backspaceCompare("ab#c", "ad#c"))
 //print(backspaceCompare("a##c", "#a#c"))
 
-print(backspaceCompare("oi###mupo##rszty#s#xu###bxx##dqc#gdjz", 
-"oi###mu#ueo##pk#o##rsztu#y#s#xu###bxx##dqc#gz#djz"))
+//print(backspaceCompare("oi###mupo##rszty#s#xu###bxx##dqc#gdjz", 
+//"oi###mu#ueo##pk#o##rsztu#y#s#xu###bxx##dqc#gz#djz"))
+
+print(nthUglyNumber(10))
 
 
