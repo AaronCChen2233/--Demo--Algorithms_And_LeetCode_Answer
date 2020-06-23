@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B8E919624A2AFDA00A1E4FA /* Asteroid Collision.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8E919524A2AFDA00A1E4FA /* Asteroid Collision.swift */; };
 		7B930520248ED87400AA5DBE /* Longest Increasing Subsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B93051F248ED87400AA5DBE /* Longest Increasing Subsequence.swift */; };
 		7B930522248ED8DB00AA5DBE /* Task Scheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B930521248ED8DB00AA5DBE /* Task Scheduler.swift */; };
 		7B930524248ED92700AA5DBE /* Sum of Square Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B930523248ED92700AA5DBE /* Sum of Square Numbers.swift */; };
@@ -47,6 +48,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		7B8E919524A2AFDA00A1E4FA /* Asteroid Collision.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Asteroid Collision.swift"; sourceTree = "<group>"; };
 		7B93051F248ED87400AA5DBE /* Longest Increasing Subsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Longest Increasing Subsequence.swift"; sourceTree = "<group>"; };
 		7B930521248ED8DB00AA5DBE /* Task Scheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Task Scheduler.swift"; sourceTree = "<group>"; };
 		7B930523248ED92700AA5DBE /* Sum of Square Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of Square Numbers.swift"; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 				7BAB56DE24A15A4D00D8E870 /* Ugly Number II.swift */,
 				7BAB56E024A17A0900D8E870 /* Number of Students Doing Homework at a Given Time.swift */,
 				7BAB56E224A17CAD00D8E870 /* Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.swift */,
+				7B8E919524A2AFDA00A1E4FA /* Asteroid Collision.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -222,6 +225,7 @@
 				7BA3C66E249D7ABA00AAC951 /* Backspace String Compare.swift in Sources */,
 				7BAB56DF24A15A4D00D8E870 /* Ugly Number II.swift in Sources */,
 				7BB16F75248D707E009C9611 /* Friend Circles.swift in Sources */,
+				7B8E919624A2AFDA00A1E4FA /* Asteroid Collision.swift in Sources */,
 				7B930522248ED8DB00AA5DBE /* Task Scheduler.swift in Sources */,
 				7BB222FE249C1D76008BE0C8 /* Number Complement.swift in Sources */,
 				7BAB56E324A17CAD00D8E870 /* Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.swift in Sources */,
