@@ -18,9 +18,6 @@ import Foundation
 //print(backspaceCompare("oi###mupo##rszty#s#xu###bxx##dqc#gdjz", 
 //"oi###mu#ueo##pk#o##rsztu#y#s#xu###bxx##dqc#gz#djz"))
 
-print(busyStudent(
-[1,2,3],
-[3,2,7],
-4))
+print(findMinFibonacciNumbers(19))
 
 
