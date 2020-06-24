@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7B8E919624A2AFDA00A1E4FA /* Asteroid Collision.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8E919524A2AFDA00A1E4FA /* Asteroid Collision.swift */; };
+		7B8FF57624A3F6170090179B /* Binary Tree Coloring Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8FF57524A3F6170090179B /* Binary Tree Coloring Game.swift */; };
 		7B930520248ED87400AA5DBE /* Longest Increasing Subsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B93051F248ED87400AA5DBE /* Longest Increasing Subsequence.swift */; };
 		7B930522248ED8DB00AA5DBE /* Task Scheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B930521248ED8DB00AA5DBE /* Task Scheduler.swift */; };
 		7B930524248ED92700AA5DBE /* Sum of Square Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B930523248ED92700AA5DBE /* Sum of Square Numbers.swift */; };
@@ -49,6 +50,7 @@
 
 /* Begin PBXFileReference section */
 		7B8E919524A2AFDA00A1E4FA /* Asteroid Collision.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Asteroid Collision.swift"; sourceTree = "<group>"; };
+		7B8FF57524A3F6170090179B /* Binary Tree Coloring Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Binary Tree Coloring Game.swift"; sourceTree = "<group>"; };
 		7B93051F248ED87400AA5DBE /* Longest Increasing Subsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Longest Increasing Subsequence.swift"; sourceTree = "<group>"; };
 		7B930521248ED8DB00AA5DBE /* Task Scheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Task Scheduler.swift"; sourceTree = "<group>"; };
 		7B930523248ED92700AA5DBE /* Sum of Square Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of Square Numbers.swift"; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				7BAB56E024A17A0900D8E870 /* Number of Students Doing Homework at a Given Time.swift */,
 				7BAB56E224A17CAD00D8E870 /* Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.swift */,
 				7B8E919524A2AFDA00A1E4FA /* Asteroid Collision.swift */,
+				7B8FF57524A3F6170090179B /* Binary Tree Coloring Game.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -215,6 +218,7 @@
 				7BB16F6B248D659E009C9611 /* Maximum Subarray.swift in Sources */,
 				7BCE00D2249A757F00A8666C /* Array+ArrayTool.swift in Sources */,
 				7BB16F73248D7048009C9611 /* Course Schedule II.swift in Sources */,
+				7B8FF57624A3F6170090179B /* Binary Tree Coloring Game.swift in Sources */,
 				7BCE00D4249A758800A8666C /* String+DPStringTool.swift in Sources */,
 				7BA3C66C249D6C5F00AAC951 /* Permutations II.swift in Sources */,
 				7BB16F64248D6549009C9611 /* main.swift in Sources */,
