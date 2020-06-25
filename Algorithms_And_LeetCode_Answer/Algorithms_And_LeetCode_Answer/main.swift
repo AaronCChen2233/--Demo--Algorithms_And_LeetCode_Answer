@@ -28,6 +28,10 @@ print(asteroidCollision([-2,-2,1,-1]))
 
 print(asteroidCollision([1,-2,-2,-2]))
 
+print(pathSum(TreeNode(-2, nil, TreeNode(-3,nil,nil)), -5))
+
+
+
 
 
 
