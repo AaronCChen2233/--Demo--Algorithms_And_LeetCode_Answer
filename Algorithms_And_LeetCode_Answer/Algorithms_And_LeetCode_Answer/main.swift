@@ -18,17 +18,24 @@ import Foundation
 //print(backspaceCompare("oi###mupo##rszty#s#xu###bxx##dqc#gdjz", 
 //"oi###mu#ueo##pk#o##rsztu#y#s#xu###bxx##dqc#gz#djz"))
 
-print(asteroidCollision([-2, -1, 1, 2]))
+//print(asteroidCollision([-2, -1, 1, 2]))
+//
+//print(asteroidCollision([5,10,-5]))
+//
+//print(asteroidCollision([-2,-2,1,-2]))
+//
+//print(asteroidCollision([-2,-2,1,-1]))
+//
+//print(asteroidCollision([1,-2,-2,-2]))
+//
+//print(pathSum(TreeNode(-2, nil, TreeNode(-3,nil,nil)), -5))
 
-print(asteroidCollision([5,10,-5]))
-
-print(asteroidCollision([-2,-2,1,-2]))
-
-print(asteroidCollision([-2,-2,1,-1]))
-
-print(asteroidCollision([1,-2,-2,-2]))
-
-print(pathSum(TreeNode(-2, nil, TreeNode(-3,nil,nil)), -5))
+print(minimumTotal([
+     [2],
+    [3,4],
+   [6,5,7],
+  [4,1,8,3]
+]))
 
 
 

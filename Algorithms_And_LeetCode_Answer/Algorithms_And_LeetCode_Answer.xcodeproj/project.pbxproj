@@ -22,6 +22,7 @@
 		7BAB56DF24A15A4D00D8E870 /* Ugly Number II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAB56DE24A15A4D00D8E870 /* Ugly Number II.swift */; };
 		7BAB56E124A17A0900D8E870 /* Number of Students Doing Homework at a Given Time.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAB56E024A17A0900D8E870 /* Number of Students Doing Homework at a Given Time.swift */; };
 		7BAB56E324A17CAD00D8E870 /* Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAB56E224A17CAD00D8E870 /* Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.swift */; };
+		7BADD53F24A6A1FA0000E29A /* Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BADD53E24A6A1FA0000E29A /* Triangle.swift */; };
 		7BB16F64248D6549009C9611 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F63248D6549009C9611 /* main.swift */; };
 		7BB16F6B248D659E009C9611 /* Maximum Subarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F6A248D659E009C9611 /* Maximum Subarray.swift */; };
 		7BB16F6D248D6E69009C9611 /* Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F6C248D6E69009C9611 /* Climbing Stairs.swift */; };
@@ -66,6 +67,7 @@
 		7BAB56DE24A15A4D00D8E870 /* Ugly Number II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ugly Number II.swift"; sourceTree = "<group>"; };
 		7BAB56E024A17A0900D8E870 /* Number of Students Doing Homework at a Given Time.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Students Doing Homework at a Given Time.swift"; sourceTree = "<group>"; };
 		7BAB56E224A17CAD00D8E870 /* Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.swift"; sourceTree = "<group>"; };
+		7BADD53E24A6A1FA0000E29A /* Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Triangle.swift; sourceTree = "<group>"; };
 		7BB16F60248D6549009C9611 /* Algorithms_And_LeetCode_Answer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithms_And_LeetCode_Answer; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BB16F63248D6549009C9611 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		7BB16F6A248D659E009C9611 /* Maximum Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Subarray.swift"; sourceTree = "<group>"; };
@@ -140,6 +142,7 @@
 				7B8E919524A2AFDA00A1E4FA /* Asteroid Collision.swift */,
 				7B8FF57524A3F6170090179B /* Binary Tree Coloring Game.swift */,
 				7B8FF57724A40C160090179B /* Path Sum II.swift */,
+				7BADD53E24A6A1FA0000E29A /* Triangle.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 				7BB16F75248D707E009C9611 /* Friend Circles.swift in Sources */,
 				7B8E919624A2AFDA00A1E4FA /* Asteroid Collision.swift in Sources */,
 				7B930522248ED8DB00AA5DBE /* Task Scheduler.swift in Sources */,
+				7BADD53F24A6A1FA0000E29A /* Triangle.swift in Sources */,
 				7BB222FE249C1D76008BE0C8 /* Number Complement.swift in Sources */,
 				7BAB56E324A17CAD00D8E870 /* Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.swift in Sources */,
 			);
