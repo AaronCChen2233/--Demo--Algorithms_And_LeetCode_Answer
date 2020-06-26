@@ -24,6 +24,7 @@
 		7BAB56E324A17CAD00D8E870 /* Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAB56E224A17CAD00D8E870 /* Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.swift */; };
 		7BADD53F24A6A1FA0000E29A /* Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BADD53E24A6A1FA0000E29A /* Triangle.swift */; };
 		7BADD54124A6AB9A0000E29A /* Shift 2D Grid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BADD54024A6AB9A0000E29A /* Shift 2D Grid.swift */; };
+		7BADD54324A6B50B0000E29A /* Shortest Distance to a Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BADD54224A6B50B0000E29A /* Shortest Distance to a Character.swift */; };
 		7BB16F64248D6549009C9611 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F63248D6549009C9611 /* main.swift */; };
 		7BB16F6B248D659E009C9611 /* Maximum Subarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F6A248D659E009C9611 /* Maximum Subarray.swift */; };
 		7BB16F6D248D6E69009C9611 /* Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F6C248D6E69009C9611 /* Climbing Stairs.swift */; };
@@ -70,6 +71,7 @@
 		7BAB56E224A17CAD00D8E870 /* Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.swift"; sourceTree = "<group>"; };
 		7BADD53E24A6A1FA0000E29A /* Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Triangle.swift; sourceTree = "<group>"; };
 		7BADD54024A6AB9A0000E29A /* Shift 2D Grid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Shift 2D Grid.swift"; sourceTree = "<group>"; };
+		7BADD54224A6B50B0000E29A /* Shortest Distance to a Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Shortest Distance to a Character.swift"; sourceTree = "<group>"; };
 		7BB16F60248D6549009C9611 /* Algorithms_And_LeetCode_Answer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithms_And_LeetCode_Answer; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BB16F63248D6549009C9611 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		7BB16F6A248D659E009C9611 /* Maximum Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Subarray.swift"; sourceTree = "<group>"; };
@@ -146,6 +148,7 @@
 				7B8FF57724A40C160090179B /* Path Sum II.swift */,
 				7BADD53E24A6A1FA0000E29A /* Triangle.swift */,
 				7BADD54024A6AB9A0000E29A /* Shift 2D Grid.swift */,
+				7BADD54224A6B50B0000E29A /* Shortest Distance to a Character.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -243,6 +246,7 @@
 				7BA3C66E249D7ABA00AAC951 /* Backspace String Compare.swift in Sources */,
 				7BAB56DF24A15A4D00D8E870 /* Ugly Number II.swift in Sources */,
 				7BB16F75248D707E009C9611 /* Friend Circles.swift in Sources */,
+				7BADD54324A6B50B0000E29A /* Shortest Distance to a Character.swift in Sources */,
 				7B8E919624A2AFDA00A1E4FA /* Asteroid Collision.swift in Sources */,
 				7B930522248ED8DB00AA5DBE /* Task Scheduler.swift in Sources */,
 				7BADD53F24A6A1FA0000E29A /* Triangle.swift in Sources */,
