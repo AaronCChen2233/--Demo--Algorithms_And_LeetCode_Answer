@@ -39,7 +39,7 @@ import Foundation
 
 //shiftGrid([[3,8,1,9],[19,7,2,5],[4,6,11,10],[12,0,21,13]], 4).printAll()
 
-print(shortestToChar("loveleetcode", "e"))
+print(trap([0,1,0,2,1,0,1,3,2,1,2,1]))
 
 
 
