@@ -18,6 +18,7 @@
 		7B930528248ED9A500AA5DBE /* Partition Labels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B930527248ED9A500AA5DBE /* Partition Labels.swift */; };
 		7B93052A248ED9EA00AA5DBE /* Cheapest Flights Within K Stops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B930529248ED9EA00AA5DBE /* Cheapest Flights Within K Stops.swift */; };
 		7B98F04824A9578B00A481DB /* Trapping Rain Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B98F04724A9578B00A481DB /* Trapping Rain Water.swift */; };
+		7B98F04A24A96EEE00A481DB /* Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B98F04924A96EEE00A481DB /* Subsets.swift */; };
 		7BA3C66C249D6C5F00AAC951 /* Permutations II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA3C66B249D6C5F00AAC951 /* Permutations II.swift */; };
 		7BA3C66E249D7ABA00AAC951 /* Backspace String Compare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA3C66D249D7ABA00AAC951 /* Backspace String Compare.swift */; };
 		7BAB56DF24A15A4D00D8E870 /* Ugly Number II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAB56DE24A15A4D00D8E870 /* Ugly Number II.swift */; };
@@ -66,6 +67,7 @@
 		7B930527248ED9A500AA5DBE /* Partition Labels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Partition Labels.swift"; sourceTree = "<group>"; };
 		7B930529248ED9EA00AA5DBE /* Cheapest Flights Within K Stops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Cheapest Flights Within K Stops.swift"; sourceTree = "<group>"; };
 		7B98F04724A9578B00A481DB /* Trapping Rain Water.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Trapping Rain Water.swift"; sourceTree = "<group>"; };
+		7B98F04924A96EEE00A481DB /* Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subsets.swift; sourceTree = "<group>"; };
 		7BA3C66B249D6C5F00AAC951 /* Permutations II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Permutations II.swift"; sourceTree = "<group>"; };
 		7BA3C66D249D7ABA00AAC951 /* Backspace String Compare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Backspace String Compare.swift"; sourceTree = "<group>"; };
 		7BAB56DE24A15A4D00D8E870 /* Ugly Number II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ugly Number II.swift"; sourceTree = "<group>"; };
@@ -152,6 +154,7 @@
 				7BADD54024A6AB9A0000E29A /* Shift 2D Grid.swift */,
 				7BADD54224A6B50B0000E29A /* Shortest Distance to a Character.swift */,
 				7B98F04724A9578B00A481DB /* Trapping Rain Water.swift */,
+				7B98F04924A96EEE00A481DB /* Subsets.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 				7BB16F6F248D6FB3009C9611 /* Gas Station.swift in Sources */,
 				7B930528248ED9A500AA5DBE /* Partition Labels.swift in Sources */,
 				7B930520248ED87400AA5DBE /* Longest Increasing Subsequence.swift in Sources */,
+				7B98F04A24A96EEE00A481DB /* Subsets.swift in Sources */,
 				7BCE00CF249A70DF00A8666C /* Set Matrix Zeroes.swift in Sources */,
 				7BAB56E124A17A0900D8E870 /* Number of Students Doing Homework at a Given Time.swift in Sources */,
 				7B930526248ED96000AA5DBE /* Network Delay Time.swift in Sources */,
