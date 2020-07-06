@@ -41,5 +41,5 @@ import Foundation
 
 //print(isRectangleOverlap([0,0,2,2], [1,1,3,3]))
 
-generateParenthesis(4).printAll()
+canPartition([1,2,5])
 

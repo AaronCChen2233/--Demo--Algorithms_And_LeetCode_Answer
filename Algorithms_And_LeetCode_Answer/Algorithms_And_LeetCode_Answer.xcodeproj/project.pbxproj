@@ -37,6 +37,7 @@
 		7BB16F77248D70B5009C9611 /* Two City Scheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F76248D70B5009C9611 /* Two City Scheduling.swift */; };
 		7BB222FE249C1D76008BE0C8 /* Number Complement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB222FD249C1D76008BE0C8 /* Number Complement.swift */; };
 		7BB4DC5224AA6CC9006A2AA6 /* Rectangle Overlap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB4DC5124AA6CC9006A2AA6 /* Rectangle Overlap.swift */; };
+		7BB87AE924B296350087309C /* Partition Equal Subset Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB87AE824B296350087309C /* Partition Equal Subset Sum.swift */; };
 		7BC9665024AD8E13002CDF48 /* Generate Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC9664F24AD8E13002CDF48 /* Generate Parentheses.swift */; };
 		7BCE00CF249A70DF00A8666C /* Set Matrix Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCE00CE249A70DF00A8666C /* Set Matrix Zeroes.swift */; };
 		7BCE00D2249A757F00A8666C /* Array+ArrayTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCE00D1249A757F00A8666C /* Array+ArrayTool.swift */; };
@@ -89,6 +90,7 @@
 		7BB16F76248D70B5009C9611 /* Two City Scheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Two City Scheduling.swift"; sourceTree = "<group>"; };
 		7BB222FD249C1D76008BE0C8 /* Number Complement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number Complement.swift"; sourceTree = "<group>"; };
 		7BB4DC5124AA6CC9006A2AA6 /* Rectangle Overlap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Rectangle Overlap.swift"; sourceTree = "<group>"; };
+		7BB87AE824B296350087309C /* Partition Equal Subset Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Partition Equal Subset Sum.swift"; sourceTree = "<group>"; };
 		7BC9664F24AD8E13002CDF48 /* Generate Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Generate Parentheses.swift"; sourceTree = "<group>"; };
 		7BCE00CE249A70DF00A8666C /* Set Matrix Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Set Matrix Zeroes.swift"; sourceTree = "<group>"; };
 		7BCE00D1249A757F00A8666C /* Array+ArrayTool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Array+ArrayTool.swift"; sourceTree = "<group>"; };
@@ -161,6 +163,7 @@
 				7B98F04924A96EEE00A481DB /* Subsets.swift */,
 				7BB4DC5124AA6CC9006A2AA6 /* Rectangle Overlap.swift */,
 				7BC9664F24AD8E13002CDF48 /* Generate Parentheses.swift */,
+				7BB87AE824B296350087309C /* Partition Equal Subset Sum.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -252,6 +255,7 @@
 				7B8FF57624A3F6170090179B /* Binary Tree Coloring Game.swift in Sources */,
 				7BCE00D4249A758800A8666C /* String+DPStringTool.swift in Sources */,
 				7BA3C66C249D6C5F00AAC951 /* Permutations II.swift in Sources */,
+				7BB87AE924B296350087309C /* Partition Equal Subset Sum.swift in Sources */,
 				7BB16F64248D6549009C9611 /* main.swift in Sources */,
 				7B98F04824A9578B00A481DB /* Trapping Rain Water.swift in Sources */,
 				7BB16F77248D70B5009C9611 /* Two City Scheduling.swift in Sources */,
