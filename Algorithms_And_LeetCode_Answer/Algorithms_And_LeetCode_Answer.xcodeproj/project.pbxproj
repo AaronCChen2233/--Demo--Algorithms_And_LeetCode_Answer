@@ -25,6 +25,7 @@
 		7BAB56E124A17A0900D8E870 /* Number of Students Doing Homework at a Given Time.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAB56E024A17A0900D8E870 /* Number of Students Doing Homework at a Given Time.swift */; };
 		7BAB56E324A17CAD00D8E870 /* Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAB56E224A17CAD00D8E870 /* Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.swift */; };
 		7BAC434524B529EF001E6A9D /* Single Element in a Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAC434424B529EF001E6A9D /* Single Element in a Sorted Array.swift */; };
+		7BAC434724B52E80001E6A9D /* Reverse Substrings Between Each Pair of Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAC434624B52E80001E6A9D /* Reverse Substrings Between Each Pair of Parentheses.swift */; };
 		7BADD53F24A6A1FA0000E29A /* Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BADD53E24A6A1FA0000E29A /* Triangle.swift */; };
 		7BADD54124A6AB9A0000E29A /* Shift 2D Grid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BADD54024A6AB9A0000E29A /* Shift 2D Grid.swift */; };
 		7BADD54324A6B50B0000E29A /* Shortest Distance to a Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BADD54224A6B50B0000E29A /* Shortest Distance to a Character.swift */; };
@@ -80,6 +81,7 @@
 		7BAB56E024A17A0900D8E870 /* Number of Students Doing Homework at a Given Time.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Students Doing Homework at a Given Time.swift"; sourceTree = "<group>"; };
 		7BAB56E224A17CAD00D8E870 /* Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.swift"; sourceTree = "<group>"; };
 		7BAC434424B529EF001E6A9D /* Single Element in a Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Single Element in a Sorted Array.swift"; sourceTree = "<group>"; };
+		7BAC434624B52E80001E6A9D /* Reverse Substrings Between Each Pair of Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse Substrings Between Each Pair of Parentheses.swift"; sourceTree = "<group>"; };
 		7BADD53E24A6A1FA0000E29A /* Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Triangle.swift; sourceTree = "<group>"; };
 		7BADD54024A6AB9A0000E29A /* Shift 2D Grid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Shift 2D Grid.swift"; sourceTree = "<group>"; };
 		7BADD54224A6B50B0000E29A /* Shortest Distance to a Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Shortest Distance to a Character.swift"; sourceTree = "<group>"; };
@@ -173,6 +175,7 @@
 				7BC3A98D24B3C32A00D88A52 /* Number of Digit One.swift */,
 				7BC3A98F24B3C90E00D88A52 /*  Add Two Numbers.swift */,
 				7BAC434424B529EF001E6A9D /* Single Element in a Sorted Array.swift */,
+				7BAC434624B52E80001E6A9D /* Reverse Substrings Between Each Pair of Parentheses.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BAC434724B52E80001E6A9D /* Reverse Substrings Between Each Pair of Parentheses.swift in Sources */,
 				7B8FF57824A40C160090179B /* Path Sum II.swift in Sources */,
 				7BB4DC5224AA6CC9006A2AA6 /* Rectangle Overlap.swift in Sources */,
 				7BB16F6D248D6E69009C9611 /* Climbing Stairs.swift in Sources */,
