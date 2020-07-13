@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7B8416F124BD1651005B65A8 /* Single Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8416F024BD1651005B65A8 /* Single Number.swift */; };
+		7B8416F324BD1F46005B65A8 /* Self Dividing Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8416F224BD1F46005B65A8 /* Self Dividing Numbers.swift */; };
 		7B8E919624A2AFDA00A1E4FA /* Asteroid Collision.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8E919524A2AFDA00A1E4FA /* Asteroid Collision.swift */; };
 		7B8FF57624A3F6170090179B /* Binary Tree Coloring Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8FF57524A3F6170090179B /* Binary Tree Coloring Game.swift */; };
 		7B8FF57824A40C160090179B /* Path Sum II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8FF57724A40C160090179B /* Path Sum II.swift */; };
@@ -65,6 +66,7 @@
 
 /* Begin PBXFileReference section */
 		7B8416F024BD1651005B65A8 /* Single Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Single Number.swift"; sourceTree = "<group>"; };
+		7B8416F224BD1F46005B65A8 /* Self Dividing Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Self Dividing Numbers.swift"; sourceTree = "<group>"; };
 		7B8E919524A2AFDA00A1E4FA /* Asteroid Collision.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Asteroid Collision.swift"; sourceTree = "<group>"; };
 		7B8FF57524A3F6170090179B /* Binary Tree Coloring Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Binary Tree Coloring Game.swift"; sourceTree = "<group>"; };
 		7B8FF57724A40C160090179B /* Path Sum II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Path Sum II.swift"; sourceTree = "<group>"; };
@@ -179,6 +181,7 @@
 				7BAC434424B529EF001E6A9D /* Single Element in a Sorted Array.swift */,
 				7BAC434624B52E80001E6A9D /* Reverse Substrings Between Each Pair of Parentheses.swift */,
 				7B8416F024BD1651005B65A8 /* Single Number.swift */,
+				7B8416F224BD1F46005B65A8 /* Self Dividing Numbers.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 				7BC3A98E24B3C32A00D88A52 /* Number of Digit One.swift in Sources */,
 				7BC3A99024B3C90E00D88A52 /*  Add Two Numbers.swift in Sources */,
 				7BCE00D4249A758800A8666C /* String+DPStringTool.swift in Sources */,
+				7B8416F324BD1F46005B65A8 /* Self Dividing Numbers.swift in Sources */,
 				7BA3C66C249D6C5F00AAC951 /* Permutations II.swift in Sources */,
 				7BB87AE924B296350087309C /* Partition Equal Subset Sum.swift in Sources */,
 				7BB16F64248D6549009C9611 /* main.swift in Sources */,
