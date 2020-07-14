@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7B3387A824BE19D80030F277 /* Add Binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3387A724BE19D80030F277 /* Add Binary.swift */; };
+		7B3387AA24BE2C5F0030F277 /* 3Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3387A924BE2C5F0030F277 /* 3Sum.swift */; };
 		7B8416F124BD1651005B65A8 /* Single Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8416F024BD1651005B65A8 /* Single Number.swift */; };
 		7B8416F324BD1F46005B65A8 /* Self Dividing Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8416F224BD1F46005B65A8 /* Self Dividing Numbers.swift */; };
 		7B8E919624A2AFDA00A1E4FA /* Asteroid Collision.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8E919524A2AFDA00A1E4FA /* Asteroid Collision.swift */; };
@@ -67,6 +68,7 @@
 
 /* Begin PBXFileReference section */
 		7B3387A724BE19D80030F277 /* Add Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add Binary.swift"; sourceTree = "<group>"; };
+		7B3387A924BE2C5F0030F277 /* 3Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3Sum.swift; sourceTree = "<group>"; };
 		7B8416F024BD1651005B65A8 /* Single Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Single Number.swift"; sourceTree = "<group>"; };
 		7B8416F224BD1F46005B65A8 /* Self Dividing Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Self Dividing Numbers.swift"; sourceTree = "<group>"; };
 		7B8E919524A2AFDA00A1E4FA /* Asteroid Collision.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Asteroid Collision.swift"; sourceTree = "<group>"; };
@@ -185,6 +187,7 @@
 				7B8416F024BD1651005B65A8 /* Single Number.swift */,
 				7B8416F224BD1F46005B65A8 /* Self Dividing Numbers.swift */,
 				7B3387A724BE19D80030F277 /* Add Binary.swift */,
+				7B3387A924BE2C5F0030F277 /* 3Sum.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -277,6 +280,7 @@
 				7BB16F73248D7048009C9611 /* Course Schedule II.swift in Sources */,
 				7B8FF57624A3F6170090179B /* Binary Tree Coloring Game.swift in Sources */,
 				7BC3A98E24B3C32A00D88A52 /* Number of Digit One.swift in Sources */,
+				7B3387AA24BE2C5F0030F277 /* 3Sum.swift in Sources */,
 				7BC3A99024B3C90E00D88A52 /*  Add Two Numbers.swift in Sources */,
 				7BCE00D4249A758800A8666C /* String+DPStringTool.swift in Sources */,
 				7B8416F324BD1F46005B65A8 /* Self Dividing Numbers.swift in Sources */,
