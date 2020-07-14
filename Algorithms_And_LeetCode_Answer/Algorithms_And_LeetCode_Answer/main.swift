@@ -41,5 +41,5 @@ import Foundation
 
 //print(isRectangleOverlap([0,0,2,2], [1,1,3,3]))
 
-print(selfDividingNumbers(1, 22))
+print(addBinary("1010", "1011"))
 

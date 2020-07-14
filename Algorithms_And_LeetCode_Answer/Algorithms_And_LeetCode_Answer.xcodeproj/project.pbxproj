@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B3387A824BE19D80030F277 /* Add Binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3387A724BE19D80030F277 /* Add Binary.swift */; };
 		7B8416F124BD1651005B65A8 /* Single Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8416F024BD1651005B65A8 /* Single Number.swift */; };
 		7B8416F324BD1F46005B65A8 /* Self Dividing Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8416F224BD1F46005B65A8 /* Self Dividing Numbers.swift */; };
 		7B8E919624A2AFDA00A1E4FA /* Asteroid Collision.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8E919524A2AFDA00A1E4FA /* Asteroid Collision.swift */; };
@@ -65,6 +66,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		7B3387A724BE19D80030F277 /* Add Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add Binary.swift"; sourceTree = "<group>"; };
 		7B8416F024BD1651005B65A8 /* Single Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Single Number.swift"; sourceTree = "<group>"; };
 		7B8416F224BD1F46005B65A8 /* Self Dividing Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Self Dividing Numbers.swift"; sourceTree = "<group>"; };
 		7B8E919524A2AFDA00A1E4FA /* Asteroid Collision.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Asteroid Collision.swift"; sourceTree = "<group>"; };
@@ -182,6 +184,7 @@
 				7BAC434624B52E80001E6A9D /* Reverse Substrings Between Each Pair of Parentheses.swift */,
 				7B8416F024BD1651005B65A8 /* Single Number.swift */,
 				7B8416F224BD1F46005B65A8 /* Self Dividing Numbers.swift */,
+				7B3387A724BE19D80030F277 /* Add Binary.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 				7BB4DC5224AA6CC9006A2AA6 /* Rectangle Overlap.swift in Sources */,
 				7BB16F6D248D6E69009C9611 /* Climbing Stairs.swift in Sources */,
 				7BB16F6F248D6FB3009C9611 /* Gas Station.swift in Sources */,
+				7B3387A824BE19D80030F277 /* Add Binary.swift in Sources */,
 				7B930528248ED9A500AA5DBE /* Partition Labels.swift in Sources */,
 				7B930520248ED87400AA5DBE /* Longest Increasing Subsequence.swift in Sources */,
 				7BC9665024AD8E13002CDF48 /* Generate Parentheses.swift in Sources */,
