@@ -52,6 +52,7 @@
 		7BCE00D4249A758800A8666C /* String+DPStringTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCE00D3249A758800A8666C /* String+DPStringTool.swift */; };
 		7BCE00D6249A953000A8666C /* Group Anagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCE00D5249A953000A8666C /* Group Anagrams.swift */; };
 		7BCE00D8249AA1B100A8666C /* Basic Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCE00D7249AA1B100A8666C /* Basic Calculator.swift */; };
+		7BD0D03D24BF830E0005AFCB /* Counting Bits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0D03C24BF830E0005AFCB /* Counting Bits.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -113,6 +114,7 @@
 		7BCE00D3249A758800A8666C /* String+DPStringTool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+DPStringTool.swift"; sourceTree = "<group>"; };
 		7BCE00D5249A953000A8666C /* Group Anagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Group Anagrams.swift"; sourceTree = "<group>"; };
 		7BCE00D7249AA1B100A8666C /* Basic Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basic Calculator.swift"; sourceTree = "<group>"; };
+		7BD0D03C24BF830E0005AFCB /* Counting Bits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Counting Bits.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -188,6 +190,7 @@
 				7B8416F224BD1F46005B65A8 /* Self Dividing Numbers.swift */,
 				7B3387A724BE19D80030F277 /* Add Binary.swift */,
 				7B3387A924BE2C5F0030F277 /* 3Sum.swift */,
+				7BD0D03C24BF830E0005AFCB /* Counting Bits.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -299,6 +302,7 @@
 				7BB16F75248D707E009C9611 /* Friend Circles.swift in Sources */,
 				7BADD54324A6B50B0000E29A /* Shortest Distance to a Character.swift in Sources */,
 				7B8416F124BD1651005B65A8 /* Single Number.swift in Sources */,
+				7BD0D03D24BF830E0005AFCB /* Counting Bits.swift in Sources */,
 				7B8E919624A2AFDA00A1E4FA /* Asteroid Collision.swift in Sources */,
 				7B930522248ED8DB00AA5DBE /* Task Scheduler.swift in Sources */,
 				7BADD53F24A6A1FA0000E29A /* Triangle.swift in Sources */,
