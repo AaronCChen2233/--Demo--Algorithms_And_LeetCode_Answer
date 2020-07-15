@@ -43,5 +43,5 @@ import Foundation
 
 //threeSum([-1, 0, 1, 2, -1, -4]).printAll()
 
-print(countBits(1))
+print(findDisappearedNumbers([4,3,2,7,8,2,3,1]))
 

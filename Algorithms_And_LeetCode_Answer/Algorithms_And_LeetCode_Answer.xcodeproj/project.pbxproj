@@ -54,6 +54,7 @@
 		7BCE00D8249AA1B100A8666C /* Basic Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCE00D7249AA1B100A8666C /* Basic Calculator.swift */; };
 		7BD0D03D24BF830E0005AFCB /* Counting Bits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0D03C24BF830E0005AFCB /* Counting Bits.swift */; };
 		7BD0D03F24BFBC370005AFCB /* Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0D03E24BFBC370005AFCB /* Reverse Linked List.swift */; };
+		7BD0D04124BFC6650005AFCB /* Find All Numbers Disappeared in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0D04024BFC6650005AFCB /* Find All Numbers Disappeared in an Array.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -117,6 +118,7 @@
 		7BCE00D7249AA1B100A8666C /* Basic Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basic Calculator.swift"; sourceTree = "<group>"; };
 		7BD0D03C24BF830E0005AFCB /* Counting Bits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Counting Bits.swift"; sourceTree = "<group>"; };
 		7BD0D03E24BFBC370005AFCB /* Reverse Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse Linked List.swift"; sourceTree = "<group>"; };
+		7BD0D04024BFC6650005AFCB /* Find All Numbers Disappeared in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find All Numbers Disappeared in an Array.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -194,6 +196,7 @@
 				7B3387A924BE2C5F0030F277 /* 3Sum.swift */,
 				7BD0D03C24BF830E0005AFCB /* Counting Bits.swift */,
 				7BD0D03E24BFBC370005AFCB /* Reverse Linked List.swift */,
+				7BD0D04024BFC6650005AFCB /* Find All Numbers Disappeared in an Array.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 				7BB16F6D248D6E69009C9611 /* Climbing Stairs.swift in Sources */,
 				7BB16F6F248D6FB3009C9611 /* Gas Station.swift in Sources */,
 				7B3387A824BE19D80030F277 /* Add Binary.swift in Sources */,
+				7BD0D04124BFC6650005AFCB /* Find All Numbers Disappeared in an Array.swift in Sources */,
 				7B930528248ED9A500AA5DBE /* Partition Labels.swift in Sources */,
 				7B930520248ED87400AA5DBE /* Longest Increasing Subsequence.swift in Sources */,
 				7BC9665024AD8E13002CDF48 /* Generate Parentheses.swift in Sources */,
