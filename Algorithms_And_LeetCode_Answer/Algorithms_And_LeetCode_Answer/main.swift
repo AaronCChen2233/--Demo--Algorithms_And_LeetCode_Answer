@@ -43,5 +43,5 @@ import Foundation
 
 //threeSum([-1, 0, 1, 2, -1, -4]).printAll()
 
-print(findDuplicate([1,3,4,2,2]))
+print(uniquePaths(7, 3))
 
