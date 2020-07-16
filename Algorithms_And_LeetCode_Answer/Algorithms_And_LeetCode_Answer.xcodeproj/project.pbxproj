@@ -55,6 +55,7 @@
 		7BD0D03D24BF830E0005AFCB /* Counting Bits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0D03C24BF830E0005AFCB /* Counting Bits.swift */; };
 		7BD0D03F24BFBC370005AFCB /* Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0D03E24BFBC370005AFCB /* Reverse Linked List.swift */; };
 		7BD0D04124BFC6650005AFCB /* Find All Numbers Disappeared in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0D04024BFC6650005AFCB /* Find All Numbers Disappeared in an Array.swift */; };
+		7BD0D04324BFD3DF0005AFCB /* House Robber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0D04224BFD3DF0005AFCB /* House Robber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -119,6 +120,7 @@
 		7BD0D03C24BF830E0005AFCB /* Counting Bits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Counting Bits.swift"; sourceTree = "<group>"; };
 		7BD0D03E24BFBC370005AFCB /* Reverse Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse Linked List.swift"; sourceTree = "<group>"; };
 		7BD0D04024BFC6650005AFCB /* Find All Numbers Disappeared in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find All Numbers Disappeared in an Array.swift"; sourceTree = "<group>"; };
+		7BD0D04224BFD3DF0005AFCB /* House Robber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "House Robber.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -197,6 +199,7 @@
 				7BD0D03C24BF830E0005AFCB /* Counting Bits.swift */,
 				7BD0D03E24BFBC370005AFCB /* Reverse Linked List.swift */,
 				7BD0D04024BFC6650005AFCB /* Find All Numbers Disappeared in an Array.swift */,
+				7BD0D04224BFD3DF0005AFCB /* House Robber.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -282,6 +285,7 @@
 				7B98F04A24A96EEE00A481DB /* Subsets.swift in Sources */,
 				7BCE00CF249A70DF00A8666C /* Set Matrix Zeroes.swift in Sources */,
 				7BAB56E124A17A0900D8E870 /* Number of Students Doing Homework at a Given Time.swift in Sources */,
+				7BD0D04324BFD3DF0005AFCB /* House Robber.swift in Sources */,
 				7B930526248ED96000AA5DBE /* Network Delay Time.swift in Sources */,
 				7BCE00D6249A953000A8666C /* Group Anagrams.swift in Sources */,
 				7BCE00D8249AA1B100A8666C /* Basic Calculator.swift in Sources */,
