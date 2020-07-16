@@ -47,6 +47,7 @@
 		7BB69E1224C0DFFD00EAF396 /* Move Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB69E1124C0DFFD00EAF396 /* Move Zeroes.swift */; };
 		7BB69E1424C0E21800EAF396 /* Find the Duplicate Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB69E1324C0E21800EAF396 /* Find the Duplicate Number.swift */; };
 		7BB69E1624C0E4BE00EAF396 /* Unique Paths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB69E1524C0E4BE00EAF396 /* Unique Paths.swift */; };
+		7BB69E1824C0E9B300EAF396 /* Merge Two Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB69E1724C0E9B300EAF396 /* Merge Two Sorted Lists.swift */; };
 		7BB87AE924B296350087309C /* Partition Equal Subset Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB87AE824B296350087309C /* Partition Equal Subset Sum.swift */; };
 		7BC3A98E24B3C32A00D88A52 /* Number of Digit One.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC3A98D24B3C32A00D88A52 /* Number of Digit One.swift */; };
 		7BC3A99024B3C90E00D88A52 /*  Add Two Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC3A98F24B3C90E00D88A52 /*  Add Two Numbers.swift */; };
@@ -117,6 +118,7 @@
 		7BB69E1124C0DFFD00EAF396 /* Move Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Move Zeroes.swift"; sourceTree = "<group>"; };
 		7BB69E1324C0E21800EAF396 /* Find the Duplicate Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find the Duplicate Number.swift"; sourceTree = "<group>"; };
 		7BB69E1524C0E4BE00EAF396 /* Unique Paths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Unique Paths.swift"; sourceTree = "<group>"; };
+		7BB69E1724C0E9B300EAF396 /* Merge Two Sorted Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Merge Two Sorted Lists.swift"; sourceTree = "<group>"; };
 		7BB87AE824B296350087309C /* Partition Equal Subset Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Partition Equal Subset Sum.swift"; sourceTree = "<group>"; };
 		7BC3A98D24B3C32A00D88A52 /* Number of Digit One.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Digit One.swift"; sourceTree = "<group>"; };
 		7BC3A98F24B3C90E00D88A52 /*  Add Two Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " Add Two Numbers.swift"; sourceTree = "<group>"; };
@@ -215,6 +217,7 @@
 				7BB69E1124C0DFFD00EAF396 /* Move Zeroes.swift */,
 				7BB69E1324C0E21800EAF396 /* Find the Duplicate Number.swift */,
 				7BB69E1524C0E4BE00EAF396 /* Unique Paths.swift */,
+				7BB69E1724C0E9B300EAF396 /* Merge Two Sorted Lists.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -298,6 +301,7 @@
 				7BB69E1224C0DFFD00EAF396 /* Move Zeroes.swift in Sources */,
 				7B930528248ED9A500AA5DBE /* Partition Labels.swift in Sources */,
 				7B930520248ED87400AA5DBE /* Longest Increasing Subsequence.swift in Sources */,
+				7BB69E1824C0E9B300EAF396 /* Merge Two Sorted Lists.swift in Sources */,
 				7BD0D04524BFD6110005AFCB /* Linked List Cycle.swift in Sources */,
 				7BC9665024AD8E13002CDF48 /* Generate Parentheses.swift in Sources */,
 				7B98F04A24A96EEE00A481DB /* Subsets.swift in Sources */,
