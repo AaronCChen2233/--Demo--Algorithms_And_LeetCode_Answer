@@ -43,6 +43,7 @@
 		7BB16F77248D70B5009C9611 /* Two City Scheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB16F76248D70B5009C9611 /* Two City Scheduling.swift */; };
 		7BB222FE249C1D76008BE0C8 /* Number Complement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB222FD249C1D76008BE0C8 /* Number Complement.swift */; };
 		7BB4DC5224AA6CC9006A2AA6 /* Rectangle Overlap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB4DC5124AA6CC9006A2AA6 /* Rectangle Overlap.swift */; };
+		7BB69E1024C0D96000EAF396 /* Remove Nth Node From End of List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB69E0F24C0D96000EAF396 /* Remove Nth Node From End of List.swift */; };
 		7BB87AE924B296350087309C /* Partition Equal Subset Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB87AE824B296350087309C /* Partition Equal Subset Sum.swift */; };
 		7BC3A98E24B3C32A00D88A52 /* Number of Digit One.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC3A98D24B3C32A00D88A52 /* Number of Digit One.swift */; };
 		7BC3A99024B3C90E00D88A52 /*  Add Two Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC3A98F24B3C90E00D88A52 /*  Add Two Numbers.swift */; };
@@ -109,6 +110,7 @@
 		7BB16F76248D70B5009C9611 /* Two City Scheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Two City Scheduling.swift"; sourceTree = "<group>"; };
 		7BB222FD249C1D76008BE0C8 /* Number Complement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number Complement.swift"; sourceTree = "<group>"; };
 		7BB4DC5124AA6CC9006A2AA6 /* Rectangle Overlap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Rectangle Overlap.swift"; sourceTree = "<group>"; };
+		7BB69E0F24C0D96000EAF396 /* Remove Nth Node From End of List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Remove Nth Node From End of List.swift"; sourceTree = "<group>"; };
 		7BB87AE824B296350087309C /* Partition Equal Subset Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Partition Equal Subset Sum.swift"; sourceTree = "<group>"; };
 		7BC3A98D24B3C32A00D88A52 /* Number of Digit One.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Digit One.swift"; sourceTree = "<group>"; };
 		7BC3A98F24B3C90E00D88A52 /*  Add Two Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " Add Two Numbers.swift"; sourceTree = "<group>"; };
@@ -203,6 +205,7 @@
 				7BD0D04024BFC6650005AFCB /* Find All Numbers Disappeared in an Array.swift */,
 				7BD0D04224BFD3DF0005AFCB /* House Robber.swift */,
 				7BD0D04424BFD6110005AFCB /* Linked List Cycle.swift */,
+				7BB69E0F24C0D96000EAF396 /* Remove Nth Node From End of List.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -311,6 +314,7 @@
 				7BB16F71248D6FFC009C9611 /* Course Schedule.swift in Sources */,
 				7B8FF57A24A40C2B0090179B /* TreeNode.swift in Sources */,
 				7B930524248ED92700AA5DBE /* Sum of Square Numbers.swift in Sources */,
+				7BB69E1024C0D96000EAF396 /* Remove Nth Node From End of List.swift in Sources */,
 				7B93052A248ED9EA00AA5DBE /* Cheapest Flights Within K Stops.swift in Sources */,
 				7BAC434524B529EF001E6A9D /* Single Element in a Sorted Array.swift in Sources */,
 				7BA3C66E249D7ABA00AAC951 /* Backspace String Compare.swift in Sources */,

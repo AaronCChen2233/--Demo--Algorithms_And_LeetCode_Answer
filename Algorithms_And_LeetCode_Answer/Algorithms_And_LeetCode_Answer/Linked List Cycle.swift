@@ -49,6 +49,7 @@ func hasCycle(_ head: ListNode?) -> Bool {
         r = r?.next?.next
     }
     return r != nil
+     
 }
 
 /**
