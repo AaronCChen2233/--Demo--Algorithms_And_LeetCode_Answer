@@ -44,6 +44,7 @@
 		7BB222FE249C1D76008BE0C8 /* Number Complement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB222FD249C1D76008BE0C8 /* Number Complement.swift */; };
 		7BB4DC5224AA6CC9006A2AA6 /* Rectangle Overlap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB4DC5124AA6CC9006A2AA6 /* Rectangle Overlap.swift */; };
 		7BB69E1024C0D96000EAF396 /* Remove Nth Node From End of List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB69E0F24C0D96000EAF396 /* Remove Nth Node From End of List.swift */; };
+		7BB69E1224C0DFFD00EAF396 /* Move Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB69E1124C0DFFD00EAF396 /* Move Zeroes.swift */; };
 		7BB87AE924B296350087309C /* Partition Equal Subset Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB87AE824B296350087309C /* Partition Equal Subset Sum.swift */; };
 		7BC3A98E24B3C32A00D88A52 /* Number of Digit One.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC3A98D24B3C32A00D88A52 /* Number of Digit One.swift */; };
 		7BC3A99024B3C90E00D88A52 /*  Add Two Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC3A98F24B3C90E00D88A52 /*  Add Two Numbers.swift */; };
@@ -111,6 +112,7 @@
 		7BB222FD249C1D76008BE0C8 /* Number Complement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number Complement.swift"; sourceTree = "<group>"; };
 		7BB4DC5124AA6CC9006A2AA6 /* Rectangle Overlap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Rectangle Overlap.swift"; sourceTree = "<group>"; };
 		7BB69E0F24C0D96000EAF396 /* Remove Nth Node From End of List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Remove Nth Node From End of List.swift"; sourceTree = "<group>"; };
+		7BB69E1124C0DFFD00EAF396 /* Move Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Move Zeroes.swift"; sourceTree = "<group>"; };
 		7BB87AE824B296350087309C /* Partition Equal Subset Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Partition Equal Subset Sum.swift"; sourceTree = "<group>"; };
 		7BC3A98D24B3C32A00D88A52 /* Number of Digit One.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Digit One.swift"; sourceTree = "<group>"; };
 		7BC3A98F24B3C90E00D88A52 /*  Add Two Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " Add Two Numbers.swift"; sourceTree = "<group>"; };
@@ -206,6 +208,7 @@
 				7BD0D04224BFD3DF0005AFCB /* House Robber.swift */,
 				7BD0D04424BFD6110005AFCB /* Linked List Cycle.swift */,
 				7BB69E0F24C0D96000EAF396 /* Remove Nth Node From End of List.swift */,
+				7BB69E1124C0DFFD00EAF396 /* Move Zeroes.swift */,
 			);
 			path = Algorithms_And_LeetCode_Answer;
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 				7BB16F6F248D6FB3009C9611 /* Gas Station.swift in Sources */,
 				7B3387A824BE19D80030F277 /* Add Binary.swift in Sources */,
 				7BD0D04124BFC6650005AFCB /* Find All Numbers Disappeared in an Array.swift in Sources */,
+				7BB69E1224C0DFFD00EAF396 /* Move Zeroes.swift in Sources */,
 				7B930528248ED9A500AA5DBE /* Partition Labels.swift in Sources */,
 				7B930520248ED87400AA5DBE /* Longest Increasing Subsequence.swift in Sources */,
 				7BD0D04524BFD6110005AFCB /* Linked List Cycle.swift in Sources */,
